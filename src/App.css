@@ -2,7 +2,7 @@
 
 /* Conteneur principal */
 .home-container {
-  background-image: url("./background-photo.jpg"); /* chemin vers ton image */
+  background-image: url("/background-photo.jpg");
   background-size: cover; /* couvre toute la surface */
   background-position: center; /* centre l’image */
   background-repeat: no-repeat; /* évite la répétition */
