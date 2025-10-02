@@ -1,6 +1,7 @@
 import Footer from "../components/Footer";
 import Skills from "../components/Skills";
 import MyProjects from "../components/MyProjects";
+
 import "./Home.css";
 
 const Home = () => {

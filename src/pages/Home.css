@@ -1,3 +1,17 @@
+.home-container {
+  background-image: url("/background-photo.jpg");
+  background-size: cover; /* couvre toute la surface */
+  background-position: center; /* centre l’image */
+  background-repeat: no-repeat; /* évite la répétition */
+  height: 100vh; /* prend toute la hauteur de la fenêtre */
+  width: 100%; /* prend toute la largeur */
+  display: flex; /* pour centrer le contenu si besoin */
+  align-items: center;
+  justify-content: center;
+  color: white; /* texte lisible */
+  text-align: center;
+}
+
 .about-me {
   background: rgba(0, 0, 0, 0.6); /* rectangle transparent */
   color: white;
